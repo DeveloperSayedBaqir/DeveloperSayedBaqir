@@ -26,10 +26,12 @@
 
 <div align="center">
 
-<a href="https://instagram.com/somnath_0904" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/somnath0904" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/somnath9411" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
+<a href="https://youtube.com/@209.9s?si=ZCzp6Oweo3yitrAw"><img src="https://img.shields.io/badge/YouTube-@209.9s-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://t.me/a1s50"><img src="https://img.shields.io/badge/Telegram-@a1s50-0088cc?style=flat-square&logo=telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/v15.oa?igsh=bmI2dnl1MWpnZDY0"><img src="https://img.shields.io/badge/Instagram-v15.oa-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/share/1CNQXvpmZv/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://tiktok.com/@x4q.0"><img src="https://img.shields.io/badge/TikTok-@x4q.0-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+<a href="https://x.com/Ail2025n"><img src="https://img.shields.io/badge/X-Ail2025n-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
 </div>
 
 <br>
