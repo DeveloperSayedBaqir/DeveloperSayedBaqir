@@ -1,36 +1,30 @@
-## مرحباً 👋 | Hey, I'm Sayed Baqer!
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="#">######
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<a href='https://www.linkedin.com/in/your-linkedin/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/your-twitter/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-أنا مطوّر تطبيقات أندرويد من العراق 🇮🇶، أختص في بناء **تطبيقات عالية الأداء، سهلة الاستخدام، وجميلة التصميم** باستخدام **Sketchware Pro**.  
-I am a 19-year-old Android developer from Iraq 🇮🇶, specialized in building **high-performance, user-friendly, and visually refined mobile applications** using **Sketchware Pro**.  
-أركز على التصميم النظيف، تحسين الأداء، وتجربة مستخدم سلسة، وأسعى دائماً لتعلم أدوات جديدة وإنشاء تطبيقات عملية وذات أثر إيجابي.  
-I focus on clean design, optimized performance, and intuitive user experiences, while continuously learning new tools and creating practical, impactful apps.
+### 📫 Like to meet me?
 
-<br/>
-<br/>
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-### 🧐 المزيد عني | More About Me:
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-- 🔭 &nbsp; أعمل حالياً على **[اسم مشروعك]** | Currently working on **[Your Project Name]**
-- 🤝 &nbsp; مفتوح للتعاون على مشاريع أندرويد | Open to collaborations on Android projects
-- 🌱 &nbsp; أتعلم باستمرار وأطور مهاراتي | Continuously learning and improving my skills
-- 👨🏻‍💻 &nbsp; معظم مشاريعي متاحة على [GitHub](https://github.com/your-username) | Most of my projects are available on [GitHub](https://github.com/your-username)
-- 💬 &nbsp; يمكنك سؤالي عن أي شيء يتعلق بتطوير أندرويد أو Sketchware Pro | Ask me about Android development or Sketchware Pro
-- 📫 &nbsp; تواصل معي على [LinkedIn](https://www.linkedin.com/in/your-linkedin/) | Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+👇 Hit in your console or terminal to connect with me.
 
-<br>
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-### 🔨 اللغات والأدوات | Languages and Tools:
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<br>
-
-### 🛠️ مشاريعي | My Projects
-<a href="https://link-to-your-app1" target="_blank"> <img alt="App1" src="./projects/app1.svg" height="68" align="left"> </a>
-<a href="https://link-to-your-app2" target="_blank"> <img alt="App2" src="./projects/app2.svg" height="68" align="left"> </a>
-<a href="https://link-to-your-app3" target="_blank"> <img alt="App3" src="./projects/app3.svg" height="68" align="left"> </a>
+```javascript
