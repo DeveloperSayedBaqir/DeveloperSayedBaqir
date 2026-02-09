@@ -26,12 +26,36 @@
 
 <div align="center">
 
-<a href="https://youtube.com/@209.9s?si=ZCzp6Oweo3yitrAw"><img src="https://img.shields.io/badge/YouTube-@209.9s-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-<a href="https://t.me/a1s50"><img src="https://img.shields.io/badge/Telegram-@a1s50-0088cc?style=flat-square&logo=telegram&logoColor=white"/></a>
-<a href="https://www.instagram.com/v15.oa?igsh=bmI2dnl1MWpnZDY0"><img src="https://img.shields.io/badge/Instagram-v15.oa-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/share/1CNQXvpmZv/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-<a href="https://tiktok.com/@x4q.0"><img src="https://img.shields.io/badge/TikTok-@x4q.0-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
-<a href="https://x.com/Ail2025n"><img src="https://img.shields.io/badge/X-Ail2025n-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
+<div align="center">
+
+<a href="https://youtube.com/@209.9s?si=ZCzp6Oweo3yitrAw" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-@209.9s-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://t.me/a1s50" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@a1s50-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/v15.oa?igsh=bmI2dnl1MWpnZDY0" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-v15.oa-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1CNQXvpmZv/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@x4q.0" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-@x4q.0-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Ail2025n" target="_blank">
+  <img src="https://img.shields.io/badge/X-Ail2025n-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/ujt8Dc45" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 </div>
 
 <br>
