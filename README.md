@@ -1,30 +1,76 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
+<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<p align="center">
+  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
-### 📫 Like to meet me?
+---
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+## 🚀 About Me
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
+```dart
+class AhmedAdel {
+  String role = "Flutter Developer & Instructor";
+  String language = "Arabic";
+  String brand = "Learn Simply | اتعلم ببساطة";
+  List<String> skills = [
+    "Flutter UI/UX",
+    "Dart Animations",
+    "Python, Java, C++",
+    "GitHub & Copilot",
+    "Arabic Content Creation"
+    "Simplify Code"
+  ];
+}
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+## 🔥 Highlights
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 🔥 Built a YouTube channel with **240K+ subscribers**
+- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
+- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
+- 🧩 Building **reusable Flutter components**, animations & UI kits
+- 📦 Making **clean code fun** to learn for beginners
 
-```javascript
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 🎬 My YouTube Focus
+
+- ✅ **Flutter basics to advanced** (in Arabic)
+- ✅ **Problem-solving** with C++ & Java
+- ✅ **Real app UIs** with animations
+- ✅ Tips for **VS Code, Git**, and productivity
+- ✅ Free projects and walkthroughs
+
+▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+
+---
+
+
+
+## ⚡️ Motto
+
+> **“Let’s simplify learning, one line of code at a time.”**
