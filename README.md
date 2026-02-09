@@ -94,20 +94,5 @@
 </details><br/>
 -->
 
-<hr>
-
-<p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/somnath0904" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
 
 ---
-### 🎎 Visitors count: <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath0904&label=Profile%20views&color=0e75b6&style=flat" alt="somnath0904" /> </p> <br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
