@@ -1,14 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<div id="header" align="center">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayuresh Dharwadkar!
+I am working as a Software developer at Infineon in Bangalore. Pro in Python, Django, Js, Ts...(and I’ll figure out the rest creatively). I like exploring new places, going on trips and.....roam around :)<br>
+You can reach out to me for **anything**. (Ya when I say anything, I mean anything).
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<h1>Hey there, Somnath this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
-
-</div>
-
-<br>
-
-<div>
+![](https://komarev.com/ghpvc/?username=Mayureshd-18&label=PROFILE+VIEWS)
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
