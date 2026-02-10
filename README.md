@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am I’m Mohammed Baqir
+ 🌹Welcome<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am I’m Mohammed Baqir
 🇮🇶 Android Application Developer | Iraq
 I am a 19-year-old Android application developer focused on building high-performance, user-friendly, and well-structured mobile applications 📱
 I mainly work with Sketchware Pro, turning ideas into practical and functional Android apps.
@@ -8,7 +9,7 @@ My development approach is based on clean design, simplicity, and performance �
 I’m constantly improving my skills, refining my workflow, and working on scalable solutions that deliver real value.
 🤝 Open for Android development, Sketchware Pro projects, and collaboration opportunities.
 Always happy to learn, share ideas, and build meaningful projects together 🚀
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 About Me
 📱 Android Developer based in Iraq
@@ -18,7 +19,6 @@ About Me
 🌱 Continuously improving my skills and refining my development workflow
 🤝 Open to collaboration, learning, and sharing ideas with other developers
 🚀 Goal: Deliver reliable, scalable applications that provide real value to users
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
 
  💻 Follow my developer journey & stay connected! 🚀✨
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
