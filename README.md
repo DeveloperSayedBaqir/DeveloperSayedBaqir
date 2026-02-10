@@ -1,13 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayuresh Dharwadkar!
-I am working as a Software developer at Infineon in Bangalore. Pro in Python, Django, Js, Ts...(and I’ll figure out the rest creatively). I like exploring new places, going on trips and.....roam around :)<br>
-You can reach out to me for **anything**. (Ya when I say anything, I mean anything).
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am I’m an Android Developer from Iraq!
+I am a 19-year-old Android application developer focused on building high-performance, user-friendly, and well-structured mobile applications. I primarily work with Sketchware Pro, transforming ideas into practical and functional Android apps.
+My development approach emphasizes clean design, simplicity, and performance, as I believe these are the foundations of reliable and successful applications. I am constantly improving my skills, refining my workflow, and aiming to deliver scalable solutions that provide real value to users.
+You can reach out to me for Android development, Sketchware projects, or collaboration opportunities — I’m always open to learning, sharing ideas, and building meaningful projects together.
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-![](https://komarev.com/ghpvc/?username=Mayureshd-18&label=PROFILE+VIEWS)
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
-</div>
 
 ### 💫 About Me
 
