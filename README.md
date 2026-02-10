@@ -1,26 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am I’m an Android Developer from Iraq!
-I am a 19-year-old Android application developer focused on building high-performance, user-friendly, and well-structured mobile applications. I primarily work with Sketchware Pro, transforming ideas into practical and functional Android apps.
-My development approach emphasizes clean design, simplicity, and performance, as I believe these are the foundations of reliable and successful applications. I am constantly improving my skills, refining my workflow, and aiming to deliver scalable solutions that provide real value to users.
-You can reach out to me for Android development, Sketchware projects, or collaboration opportunities — I’m always open to learning, sharing ideas, and building meaningful projects together.
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+### Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am I’m Mohammed Baqir
+🇮🇶 Android Application Developer | Iraq
+I am a 19-year-old Android application developer focused on building high-performance, user-friendly, and well-structured mobile applications 📱
+I mainly work with Sketchware Pro, turning ideas into practical and functional Android apps.
+My development approach is based on clean design, simplicity, and performance ⚙️
+I’m constantly improving my skills, refining my workflow, and working on scalable solutions that deliver real value.
+🤝 Open for Android development, Sketchware Pro projects, and collaboration opportunities.
+Always happy to learn, share ideas, and build meaningful projects together 🚀
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
 
-### 💫 About Me
+About Me
+📱 Android Developer based in Iraq
+🛠️ Specialized in building high-performance, user-friendly Android applications using Sketchware Pro
+🎨 Focused on clean design, simplicity, and smooth user experience
+⚙️ Passionate about turning ideas into practical and functional mobile apps
+🌱 Continuously improving my skills and refining my development workflow
+🤝 Open to collaboration, learning, and sharing ideas with other developers
+🚀 Goal: Deliver reliable, scalable applications that provide real value to users
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
 
-- 🎓 I'm a Student and Web Developer.
-- 🔭 I’m currently working on Web Development and DSA.
-- 🌱 I’m currently learning DevOps.
-- 👯 I’m looking to collaborate with open source enthusiasts and developers.
-- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA.
+ 💻 Follow my developer journey & stay connected! 🚀✨
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
 
-<br>
-
-## 🌐 Socials:
-
-<div align="center">
-
-<div align="center">
 
 <a href="https://youtube.com/@209.9s?si=ZCzp6Oweo3yitrAw" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-@209.9s-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -50,7 +52,7 @@ You can reach out to me for Android development, Sketchware projects, or collabo
   <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-</div>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
 
 <br>
 
