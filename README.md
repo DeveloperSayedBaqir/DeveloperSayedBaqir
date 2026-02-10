@@ -54,18 +54,15 @@ About Me
 </a>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
-<br>
+ 💻 Tech Stack 
+<p align="left">
+  <img src="https://firebasestorage.googleapis.com/v0/b/test-appsl.appspot.com/o/images%2Fsdcard%2F.transforms%2Fsynthetic%2Fpicker_get_content%2F0%2Fcom.android.providers.media.photopicker%2Fmedia%2F1000367468.jpgimage?alt=media&token=e43bbd5d-3f4e-4548-b265-ae4e3e5767c6" width="80" height="80" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/test-appsl.appspot.com/o/images%2Fsdcard%2F.transforms%2Fsynthetic%2Fpicker_get_content%2F0%2Fcom.android.providers.media.photopicker%2Fmedia%2F1000627169.pngimage?alt=media&token=e9f1a7f0-5dc4-4971-8d63-7f59e05945d7" width="80" height="80" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/test-appsl.appspot.com/o/images%2Fsdcard%2F.transforms%2Fsynthetic%2Fpicker_get_content%2F0%2Fcom.android.providers.media.photopicker%2Fmedia%2F1000627171.pngimage?alt=media&token=3234c2a3-c3e8-41a2-bb94-d650299796e5" width="80" height="80" />
 
-
-# 💻 Tech Stack:
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📊 GitHub Stats:
 
