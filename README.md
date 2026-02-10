@@ -11,6 +11,7 @@ I’m constantly improving my skills, refining my workflow, and working on scala
 Always happy to learn, share ideas, and build meaningful projects together 🚀
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+---
 About Me
 📱 Android Developer based in Iraq
 🛠️ Specialized in building high-performance, user-friendly Android applications using Sketchware Pro
@@ -20,9 +21,9 @@ About Me
 🤝 Open to collaboration, learning, and sharing ideas with other developers
 🚀 Goal: Deliver reliable, scalable applications that provide real value to users
 
- 💻 Follow my developer journey & stay connected! 🚀✨
+---
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) 
-
+ 💻 Follow my developer journey & stay connected! 🚀✨
 
 <a href="https://youtube.com/@209.9s?si=ZCzp6Oweo3yitrAw" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-@209.9s-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
