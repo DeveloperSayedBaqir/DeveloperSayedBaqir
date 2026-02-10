@@ -63,49 +63,14 @@ About Me
   <img src="https://firebasestorage.googleapis.com/v0/b/test-appsl.appspot.com/o/images%2Fsdcard%2F.transforms%2Fsynthetic%2Fpicker_get_content%2F0%2Fcom.android.providers.media.photopicker%2Fmedia%2F1000627171.pngimage?alt=media&token=3234c2a3-c3e8-41a2-bb94-d650299796e5" width="80" height="80" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+📊 GitHub Stats
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="155em" src="https://camo.githubusercontent.com/229f50e64f320081798cf0c7853a51425a3f4b08c9e537eafb9f7c667c08d274/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d53616d6269742d4d6f6e64616c267261646975733d3136267468656d653d7265646963616c26617265613d74727565266f726465723d35">
-
-</div><br>
-
-# 🎖 Badges
-
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
-</div>
-</details>
-<br>
-<details>	
- <summary><b>OctoHub Badges 🪶</b></summary><br>
-	<a href="https://discord.gg/qg8N7dq7tZ">
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/0" alt="OctoHub 2023 Level 0" />
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/1" alt="OctoHub 2023 Level 1" />
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/2" alt="OctoHub 2023 Level 2" />
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/3" alt="OctoHub 2023 Level 3" />
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/4" alt="OctoHub 2023 Level 4" />
-	</a>
-</div>
-</details>
-<br>
-<!--
-<details>
-  <summary><b> HoloPin Badges </b></summary>
-[![@somnath0904's Holopin board](https://holopin.me/somnath0904)](https://www.holopin.io/@somnath0904#)
-</details><br/>
--->
-
-
-
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
+	
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
