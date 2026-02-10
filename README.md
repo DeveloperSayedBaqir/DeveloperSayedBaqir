@@ -71,13 +71,7 @@ About Me
 
 <div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnath0904&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnath0904&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnath0904&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnath0904&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=somnath0904&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath0904&theme=radical">
+<img height="155em" src="https://camo.githubusercontent.com/229f50e64f320081798cf0c7853a51425a3f4b08c9e537eafb9f7c667c08d274/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d53616d6269742d4d6f6e64616c267261646975733d3136267468656d653d7265646963616c26617265613d74727565266f726465723d35">
 
 </div><br>
 
